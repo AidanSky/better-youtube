@@ -1,0 +1,14 @@
+notes for playlist folders etc:
+1. How to store them per user
+2. How to change when user adds new items to a palylist
+
+
+
+needs to refresh when going to new videos
+only run on /watch
+mutationobserver instead of promise listener?
+
+
+next steps for loop: 
+make test button take client information, check if within confines of video
+figure out how to alter playrate, and alter based on given paramaters, checking every xxx milliseconds
