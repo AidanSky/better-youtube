@@ -45,6 +45,3 @@ Better YouTube is a Chrome extension designed to enhance the YouTube user experi
 
 ## Contributing
 Feel free to fork this repository, make improvements, and submit pull requests. For major changes, please open an issue to discuss your ideas.
-
-## License
-This project is licensed under the MIT License.
